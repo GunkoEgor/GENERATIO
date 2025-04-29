@@ -1,0 +1,14 @@
+C:\Users\egorg\Documents\Gyroscopic\GE Repo\new test\Generatio\Generatio\bin\Debug\net8.0\Generatio.exe
+C:\Users\egorg\Documents\Gyroscopic\GE Repo\new test\Generatio\Generatio\bin\Debug\net8.0\Generatio.deps.json
+C:\Users\egorg\Documents\Gyroscopic\GE Repo\new test\Generatio\Generatio\bin\Debug\net8.0\Generatio.runtimeconfig.json
+C:\Users\egorg\Documents\Gyroscopic\GE Repo\new test\Generatio\Generatio\bin\Debug\net8.0\Generatio.dll
+C:\Users\egorg\Documents\Gyroscopic\GE Repo\new test\Generatio\Generatio\bin\Debug\net8.0\Generatio.pdb
+C:\Users\egorg\Documents\Gyroscopic\GE Repo\new test\Generatio\Generatio\obj\Debug\net8.0\Generatio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\egorg\Documents\Gyroscopic\GE Repo\new test\Generatio\Generatio\obj\Debug\net8.0\Generatio.AssemblyInfoInputs.cache
+C:\Users\egorg\Documents\Gyroscopic\GE Repo\new test\Generatio\Generatio\obj\Debug\net8.0\Generatio.AssemblyInfo.cs
+C:\Users\egorg\Documents\Gyroscopic\GE Repo\new test\Generatio\Generatio\obj\Debug\net8.0\Generatio.csproj.CoreCompileInputs.cache
+C:\Users\egorg\Documents\Gyroscopic\GE Repo\new test\Generatio\Generatio\obj\Debug\net8.0\Generatio.dll
+C:\Users\egorg\Documents\Gyroscopic\GE Repo\new test\Generatio\Generatio\obj\Debug\net8.0\refint\Generatio.dll
+C:\Users\egorg\Documents\Gyroscopic\GE Repo\new test\Generatio\Generatio\obj\Debug\net8.0\Generatio.pdb
+C:\Users\egorg\Documents\Gyroscopic\GE Repo\new test\Generatio\Generatio\obj\Debug\net8.0\Generatio.genruntimeconfig.cache
+C:\Users\egorg\Documents\Gyroscopic\GE Repo\new test\Generatio\Generatio\obj\Debug\net8.0\ref\Generatio.dll

@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\egorg\\Documents\\Gyroscopic\\GE Repo\\new test\\Generatio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D07E9FDC-4085-43E4-96F9-503A9229D256}|Generatio\\Generatio.csproj|c:\\users\\egorg\\documents\\gyroscopic\\ge repo\\new test\\generatio\\generatio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D07E9FDC-4085-43E4-96F9-503A9229D256}|Generatio\\Generatio.csproj|solutionrelative:generatio\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\egorg\\Documents\\Gyroscopic\\GE Repo\\new test\\Generatio\\Generatio\\Program.cs",
+              "RelativeDocumentMoniker": "Generatio\\Program.cs",
+              "ToolTip": "C:\\Users\\egorg\\Documents\\Gyroscopic\\GE Repo\\new test\\Generatio\\Generatio\\Program.cs",
+              "RelativeToolTip": "Generatio\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T23:46:35.133Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
