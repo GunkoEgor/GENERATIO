@@ -301,3 +301,5 @@ __pycache__/
 *.targets
 *.props
 Generatio/Properties/AssemblyInfo.cs
+Generatio/obj/Release/net8.0/Generatio.AssemblyInfo.cs
+Generatio.sln
