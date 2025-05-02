@@ -1,6 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using static System.Console;
+﻿using static System.Console;
 
 
 using static Generatio.GalleryLogic;
@@ -47,7 +45,7 @@ namespace Generatio
                 ForegroundColor = ConsoleColor.White;
             }
         }
-             //  Force the user to enlarge the window to prevent limitations of the size of the patterns
+        //  Force the user to enlarge the window to prevent limitations of the size of the patterns
 
 
         static public void ResetAll()
@@ -92,7 +90,7 @@ namespace Generatio
             Write("\n\n\n\n\n\n");
             PrintLogo();
         }
-             //  Simple UI formatting (resetting the formatting)
+        //  Simple UI formatting (resetting the formatting)
 
 
         static public void ResetSizeUI(string _sizeType, UInt16 _maxSize, uint _realMax, UInt16 _last = 0)
@@ -101,7 +99,7 @@ namespace Generatio
             ResetUI(!gIgnoreFullScreen, true);
             Write("\n\t\t\t\t\t\tВыбрано: --- === Создание узоров === ---\n\n\n");
 
-            if(_last != 0) Write("\t\t[=]  - Выбранная ширина: " + _last + "\n\n");
+            if (_last != 0) Write("\t\t[=]  - Выбранная ширина: " + _last + "\n\n");
 
 
             //  Calculate margin for the gallery output
@@ -135,7 +133,7 @@ namespace Generatio
 
             Write("\n\t\t[i]  - Чем больше " + _sizeType + "а узора, тем он красивее!\n");
         }
-             //  UI reset for the GetSize() function
+        //  UI reset for the GetSize() function
 
 
         static public void WriteProgramInfo()
@@ -147,7 +145,7 @@ namespace Generatio
 
 
             Write("\n\t\tЭта программа была создана в учебных целях учеником Гунько Егором, для облегчения работы художникам.");
-            Write("\n\t\tТехническая информация:  v2.1.1 patch (3165 + 1215: 4380 строк кода)\n");
+            Write("\n\t\tТехническая информация:  v2.1.2 patch\n");
 
             Write("\n\t\t[i]  - Функционал:");
             Write("\n\t\t         > Создание узоров (выбор размеров, цветов, названия для созданных узоров");
@@ -185,7 +183,7 @@ namespace Generatio
             Write("\n\t\tНадеюсь вам поможет моя программа, удачи! ");
             ReadKey();
         }
-             //  Write the info about the program
+        //  Write the info about the program
 
 
         static public void EncodePattern(short _type, int X, int Y, int _colAmount,
@@ -248,7 +246,7 @@ namespace Generatio
             }
 
             if (_savePattern)
-            { 
+            {
                 List<string> _patternData = new List<string>
                 {
                     //  Add a special character for the ParseData function
@@ -264,8 +262,8 @@ namespace Generatio
                 Write("\n\n");
             }
         }
-             //  Writing dev info and/or saving the pattern
-             //  Write info for developers (usefull for changing the gallery parameters)
+        //  Writing dev info and/or saving the pattern
+        //  Write info for developers (usefull for changing the gallery parameters)
 
 
         static public void PrintLogo()
@@ -703,7 +701,7 @@ namespace Generatio
             BackgroundColor = ConsoleColor.Black;
             Write("\n\n\n"); //7 Empty
         }
-             //  Logo is stored here, consists of: 6 layers + 2 empty (8 total)
+        //  Logo is stored here, consists of: 6 layers + 2 empty (8 total)
 
 
 
@@ -803,7 +801,7 @@ namespace Generatio
             //  Return auto continue = false (wait for user input)
             return false;
         }
-             //  All the logic for generating a user-prompted pattern
+        //  All the logic for generating a user-prompted pattern
 
         static public void PrintPatterns(byte[] BestPatterns, int X, int Y, ConsoleColor[] Colors)
         {
@@ -842,7 +840,7 @@ namespace Generatio
             }
 
             Write("\n\n\t\tUsed id: ");
-            for(int i = 0; i < _usedIds.Length; i++)
+            for (int i = 0; i < _usedIds.Length; i++)
             {
                 Write(_usedIds[i] + " ");
             }
@@ -867,6 +865,6 @@ namespace Generatio
                 }
             }
         }
-             //  Printing all the patterns that we constructed through the standart process
+        //  Printing all the patterns that we constructed through the standart process
     }
 }
